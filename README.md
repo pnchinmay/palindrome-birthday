@@ -8,4 +8,4 @@ Built using
 - CSS
 - JavaScript
 
-[Live Project]()
+[Live Project](https://pnchinmay-palindrome-birthday.netlify.app/)
