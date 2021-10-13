@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+:root {
+  --primary-color: #60A5FA;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+}
+
+.heading {
+  padding: 1rem;
+  margin: 0%;
+  text-align: center;
+  padding-bottom: 2rem;
+  max-width: 100%;
+  background: var(--primary-color);
+}
+
+.input {
+  padding: 1rem;
+  padding-bottom: 2rem;
+  font-size: larger;
+  font-weight: bold;
+}
+
+#bday-input {
+  padding: 0.3rem;
+  border: 2px solid;
+  background-color: var(--primary-color);
+}
+
+.btn {
+  border-radius: 0.5rem;
+  padding: 0.5rem 2rem;
+  background-color: var(--primary-color);
+}
+
+#output {
+  font-size: medium;
+  font-weight: 600;
+}
+
+.result {
+  padding-top: 2rem;
+}
